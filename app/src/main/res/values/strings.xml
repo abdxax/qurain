@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Qurain</string>
+    <array name="nams">
+        <item>الفاتحة</item>
+        <item>البقرة</item>
+        <item>ال عمران</item>
+        <item>النساء</item>
+        <item>المائدة</item>
+        <item>اللنعام</item>
+        <item>الاعراف</item>
+        <item>الانفال</item>
+        <item>التوبة</item>
+        <item>يونس</item>
+    </array>
+</resources>
